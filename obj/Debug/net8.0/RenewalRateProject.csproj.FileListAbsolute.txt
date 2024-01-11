@@ -1,0 +1,15 @@
+D:\C# Learn\CsharpProjects\RenewalRateProject\obj\Debug\net8.0\RenewalRateProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Learn\CsharpProjects\RenewalRateProject\obj\Debug\net8.0\RenewalRateProject.AssemblyInfoInputs.cache
+D:\C# Learn\CsharpProjects\RenewalRateProject\obj\Debug\net8.0\RenewalRateProject.AssemblyInfo.cs
+D:\C# Learn\CsharpProjects\RenewalRateProject\obj\Debug\net8.0\RenewalRateProject.csproj.CoreCompileInputs.cache
+D:\C# Learn\CsharpProjects\RenewalRateProject\obj\Debug\net8.0\RenewalRateProject.sourcelink.json
+D:\C# Learn\CsharpProjects\RenewalRateProject\bin\Debug\net8.0\RenewalRateProject.exe
+D:\C# Learn\CsharpProjects\RenewalRateProject\bin\Debug\net8.0\RenewalRateProject.deps.json
+D:\C# Learn\CsharpProjects\RenewalRateProject\bin\Debug\net8.0\RenewalRateProject.runtimeconfig.json
+D:\C# Learn\CsharpProjects\RenewalRateProject\bin\Debug\net8.0\RenewalRateProject.dll
+D:\C# Learn\CsharpProjects\RenewalRateProject\bin\Debug\net8.0\RenewalRateProject.pdb
+D:\C# Learn\CsharpProjects\RenewalRateProject\obj\Debug\net8.0\RenewalRateProject.dll
+D:\C# Learn\CsharpProjects\RenewalRateProject\obj\Debug\net8.0\refint\RenewalRateProject.dll
+D:\C# Learn\CsharpProjects\RenewalRateProject\obj\Debug\net8.0\RenewalRateProject.pdb
+D:\C# Learn\CsharpProjects\RenewalRateProject\obj\Debug\net8.0\RenewalRateProject.genruntimeconfig.cache
+D:\C# Learn\CsharpProjects\RenewalRateProject\obj\Debug\net8.0\ref\RenewalRateProject.dll
